@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', function () {
     'image1.jpg',
     'image2.jpg',
     'image3.jpg',
-    'sample.png'
+    'background.png',
+    'demo.svg'
     // Add more image URLs as needed
   ];
 
